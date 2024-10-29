@@ -21,6 +21,6 @@ A DVD-themed screensaver coded in a single morning using less than 70 lines in P
   </ul>
 </li>
 
-It is open to user interaction, from which control of the speed through the use of the mouse scroll is possible
-
 <img src="https://i.imgur.com/evOhHBj.gif" alt="DVD screensaver plays" />
+
+It is open to user interaction, from which control of the speed through the use of the mouse scroll is possible
