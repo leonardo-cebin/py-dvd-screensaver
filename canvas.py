@@ -32,6 +32,7 @@ def mouseLeaving(event):
     running = False
 
 window = Tk()
+window.title("Screensaver - The Old Times")
 
 canvas = Canvas(window,width=WIDTH,height=HEIGHT,bg='black')
 canvas.pack()
