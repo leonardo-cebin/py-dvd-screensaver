@@ -16,4 +16,6 @@ A DVD-themed screensaver coded in a single morning using Python. Coded to demons
   </ul>
 </li>
 
+It is open to user interaction, from which control of the speed through the use of the mouse scroll is possible
+
 <img src="https://i.imgur.com/evOhHBj.gif" alt="DVD screensaver plays" />
