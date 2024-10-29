@@ -1,6 +1,8 @@
-# py-dvd-screensaver
+# 📀 py-dvd-screensaver 📀
 
-A DVD-themed screensaver coded in a single morning using Python. Coded to demonstrate:
+<img src="https://i.imgur.com/OLcWNhe.png" alt="DVD screensaver plays" width=140%/>
+
+A DVD-themed screensaver coded in a single morning using less than 70 lines in Python. Coded to demonstrate:
 <li>
   <ul>
     Image replacing
@@ -10,6 +12,9 @@ A DVD-themed screensaver coded in a single morning using Python. Coded to demons
   </ul>
   <ul>
     Mouse binding (the mouse scroll controls the speed)
+  </ul>
+  <ul>
+    Use of the canvas
   </ul>
   <ul>
     Good taste for the 00s
